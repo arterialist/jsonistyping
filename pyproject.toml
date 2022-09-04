@@ -1,7 +1,7 @@
 [project]
 name = "jsonistyping"
 description = "Simple type checking and type conversion library"
-version = "0.1.0"
+version = "0.1.2"
 authors = [
     { name = "Arterialist", email = "contact@arterialist.me" }
 ]
